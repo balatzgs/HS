@@ -1,16 +1,16 @@
 #** DA REAL HEARTHSTONE TOORNAMENT **
 
-!(https://github.com/balatzgs/HS/blob/master/misc/logo.png)
+[[https://github.com/balatzgs/HS/blob/master/misc/logo.png]]
 
-##Contestants
-Simos
-Kostakis
-Raptis
-Big Kera
-Savvas
-Xristos
-3aderfos
-Juergen
+##Contestants :
+-Simos
+-Kostakis
+-Raptis
+-Big Kera
+-Savvas
+-Xristos
+-3aderfos
+-Juergen
 
 ##Rules
 
