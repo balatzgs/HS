@@ -1,6 +1,6 @@
 # DA REAL HEARTHSTONE TOORNAMENT
 
-[[https://github.com/balatzgs/HS/blob/master/misc/logo.png]]
+![Image][[https://github.com/balatzgs/HS/blob/master/misc/logo.png]]
 
 ##Contestants :
 -Simos
